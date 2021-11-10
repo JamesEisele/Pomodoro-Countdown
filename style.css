@@ -18,7 +18,7 @@
 #countdown {
   text-align: center;
   font-size: 50px;
-  font-family: "Glacial Indifference";
+  font-family: "Glacial Indifference", Arial, Consolas;
   font-weight: 600;
   color: white;
   margin-left: 10px;
